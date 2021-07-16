@@ -42,7 +42,7 @@
 <img src="補上機器尺寸路徑" width="360" height="200"/>
 
 
-<h2 id="Each station in Machine">Each station in Machine<h2>
+<h2 id="Each station in Machine">Each station in Machine
 <h3 id="Feeding station">1.Feeding station<h3>
 <h4>1.1 photo<h4>
 <img src="補上入料站的總照片路徑" width="360" height="200"/>
@@ -154,6 +154,6 @@ From normal to rotating
 <br>
 <img src="補上人機手動頁2照片路徑" width="360" height="200"/>
 <br>
-
+<h2>
 
 <html>
