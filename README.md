@@ -78,19 +78,25 @@ rotating finishing holder
 <h4>3.2 video<h4>
 <video src="補上出料站操作影片路徑" controls></video>
 <p>
-<h4>3.3 First Feeding station<h4>
+<h4>3.3 First Output station<h4>
 <img src="補上出料第一站&開關照片路徑" width="360" height="200"/>
 
-<h4>3.4 Second Feeding station<h4>
+<h4>3.4 Second Output station<h4>
 <img src="補上出料第二站&開關照片路徑" width="360" height="200"/>
-<h4>3.5 How to change pattern(same type)<h4>
+<h4>3.5 How to change pattern(same jig type)<h4>
+normal finishing holder
+<img src="補上一般夾具換樣式要更換的零件" width="360" height="200"/>
+<video src="補上一般夾具換樣式的方式的影片" controls></video>
+<p>
+rotating finishing holder
+<img src="補上旋轉夾具換樣式要更換的零件" width="360" height="200"/>
+<video src="補上旋轉夾具換樣式的方式的影片" controls></video>
+<p>
+<h4>3.6 How to change pattern(different jig type)<h4>
 <img src="補上指出換樣式要更換的零件" width="360" height="200"/>
 <video src="換樣式的方式的影片" controls></video>
 <p>
-<h4>3.6 How to change pattern(different type)<h4>
-<img src="補上指出換樣式要更換的零件" width="360" height="200"/>
-<video src="換樣式的方式的影片" controls></video>
-<p>
+
 
 <h3>4.HMI monitor<p><h3>
 <h4>4.1 photo of main page<h4>
