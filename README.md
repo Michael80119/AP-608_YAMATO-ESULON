@@ -43,7 +43,7 @@
 
 
 <h2 id="Each station in Machine">Each station in Machine<h2>
-<h3 id="Feeding station">Feeding station<h3>
+<h3 id="Feeding station">1.Feeding station<h3>
 <h4>1.1 photo<h4>
 <img src="補上入料站的總照片路徑" width="360" height="200"/>
 <br>
@@ -74,7 +74,7 @@ From normal to rotating
 <video src="換樣式的方式的影片" controls></video>
 <p>
 
-<h3 id="End-rounding station">End-rounding station<h3>
+<h3 id="End-rounding station">2.End-rounding station<h3>
 <h4>2.1 photo<h4>
 <img src="補上磨毛站的總照片路徑" width="360" height="200"/>
 <br>
@@ -98,7 +98,7 @@ From normal to rotating
 <h4>2.7 How to change end-rounders<h4>
 <video src="補上更換磨毛盤的影片" controls></video>
 
-<h3 id="Output station">Output station<h3>
+<h3 id="Output station">3.Output station<h3>
 <h4>3.1 photo<h4>
 <img src="補上出料站的總照片路徑" width="360" height="200"/>
 <br>
@@ -129,7 +129,7 @@ From normal to rotating
 <video src="換樣式的方式的影片" controls></video>
 <p>
 
-<h3 id="HMI monitor">HMI monitor<h3>
+<h3 id="HMI monitor">4.HMI monitor<h3>
 <h4>4.1 photo of main page<h4>
 <img src="補上人機主頁面照片路徑" width="360" height="200"/>
 <br>
