@@ -41,6 +41,11 @@ rotating finishing holder
 <video src="補上旋轉夾具換樣式的方式的影片" controls></video>
 <p>
 <h4>1.6 How to change pattern(different jig type)<h4>
+From rotating to normal
+<img src="補上指出換樣式要更換的零件" width="360" height="200"/>
+<video src="換樣式的方式的影片" controls></video>
+<p>
+From normal to rotating
 <img src="補上指出換樣式要更換的零件" width="360" height="200"/>
 <video src="換樣式的方式的影片" controls></video>
 <p>
@@ -93,10 +98,14 @@ rotating finishing holder
 <video src="補上旋轉夾具換樣式的方式的影片" controls></video>
 <p>
 <h4>3.6 How to change pattern(different jig type)<h4>
+From rotating to normal
 <img src="補上指出換樣式要更換的零件" width="360" height="200"/>
 <video src="換樣式的方式的影片" controls></video>
 <p>
-
+From normal to rotating
+<img src="補上指出換樣式要更換的零件" width="360" height="200"/>
+<video src="換樣式的方式的影片" controls></video>
+<p>
 
 <h3>4.HMI monitor<p><h3>
 <h4>4.1 photo of main page<h4>
