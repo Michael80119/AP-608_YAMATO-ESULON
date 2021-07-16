@@ -9,7 +9,7 @@ Customized end-rounding machine for YAMATO-ESULON
 <h3><img src="補上機器左邊照片路徑" width="360" height="200"/><h3>
 <h2>
 
-<h2>Machine videos<h2>
+<h2>Machine videos
 <h3><video src="補上機器作動影片路徑" width="360" height="200" controls></video><h3>
 <h3><video src="補上機器作動影片路徑徑" controls></video><h3>
 
