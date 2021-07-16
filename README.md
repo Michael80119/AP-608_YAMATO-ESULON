@@ -13,12 +13,12 @@
     <li><a href="#Each station in Machine">Each station in Machine</a></li>
     <ol>
     <li><a href="#Feeding station">Feeding station</a></li>
-    <li><a href="#End-rounding station">End-rounding station</a><//li>
-    <li><a href="#Output station">Output station</a><//li>
+    <li><a href="#End-rounding station">End-rounding station</a></li>
+    <li><a href="#Output station">Output station</a></li>
     <li><a href="#HMI monitor">HMI monitor</a></li>
     <ol>  
 <ul>
-</nav>  
+<nav>  
   
 <div id="Machine pictures">
 <h2>Machine pictures
@@ -28,35 +28,28 @@
 <h3><img src="補上機器左邊照片路徑" width="360" height="200"/><h3>
 <h2>
   
-</div>
+
 <div id="Machine videos">
 <h2>Machine videos
 <h3><video src="補上機器作動影片路徑" width="360" height="200" controls></video><h3>
 <h3><video src="補上機器作動影片路徑徑" controls></video><h3>
 
-</div>
 
-</div>
 <div id="Panel box and Air">
 <h2>Panel box and Air
 <h3><img src="補上配電盤照片路徑" width="360" height="200"/><h3>
 <h3><img src="補上配電盤照片路徑" width="360" height="200"/><h3>
 <h3><img src="補上電磁閥&三點組合照片路徑" width="360" height="200"/><h3>
-</div> 
- 
-</div>
+
 <div id="Machine Dimension">  
 <h2>Machine Dimension
 <p>
 <h3><img src="補上機器尺寸路徑" width="360" height="200"/><h3>
 <h3><img src="補上機器尺寸路徑" width="360" height="200"/><h3>
 <p>
-</div>
-  
-</div>
+
 <div id="Each station in Machine">
 <h2>Each station in Machine
-</div>
 <div id="Feeding station">  
 <h3>1.Feeding station<p><h3>
 <h4>1.1 photo<h4>
@@ -88,9 +81,7 @@ From normal to rotating
 <img src="補上指出換樣式要更換的零件" width="360" height="200"/>
 <video src="換樣式的方式的影片" controls></video>
 <p>
-</div>
 
-</div>
 <div id="End-rounding station">  
 <p><h3>2.End-rounding station<p><h3>
 <h4>2.1 photo<h4>
@@ -115,9 +106,7 @@ From normal to rotating
 <video src="補上調整磨毛高度的影片" controls></video>
 <h4>2.7 How to change end-rounders<h4>
 <video src="補上更換磨毛盤的影片" controls></video>
-</div>
 
-</div>
 <div id="Output station"> 
 <h3>3.Output station<p><h3>
 <h4>3.1 photo<h4>
@@ -149,9 +138,7 @@ From normal to rotating
 <img src="補上指出換樣式要更換的零件" width="360" height="200"/>
 <video src="換樣式的方式的影片" controls></video>
 <p>
-</div>
 
-</div>
 <div id="HMI monitor"> 
 <h3>4.HMI monitor<p><h3>
 <h4>4.1 photo of main page<h4>
@@ -178,7 +165,6 @@ From normal to rotating
 <br>
 <img src="補上人機手動頁2照片路徑" width="360" height="200"/>
 <br>
-</div>
 
 
 <html>
