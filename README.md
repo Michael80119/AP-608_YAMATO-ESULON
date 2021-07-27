@@ -45,7 +45,7 @@
 <h2 id="Each station in Machine">Each station in Machine
 <h3 id="Feeding station">1.Feeding station<h3>
 <h4>1.1 photo<h4>
-<img src="補上入料站的總照片路徑" width="360" height="200"/>
+<img src="AP-608 Insert station.jpg" width="360" height="200"/>
 <br>
 <h4>1.2 video<h4>
 <video src="補上入料站操作影片路徑" controls></video>
