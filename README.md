@@ -40,8 +40,7 @@
 
   
 <h2 id="Machine Dimension">Machine Dimension<h2>
-<img src="AP-608 layout.jpg" width="356" height="343"/>
-<img src="補上機器尺寸路徑" width="360" height="200"/>
+<img src="AP-608 layout.jpg" width="475" height="457"/>
 
 
 <h2 id="Each station in Machine">Each station in Machine
