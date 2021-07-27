@@ -32,9 +32,10 @@
 <video src="補上機器作動影片路徑徑" controls></video>
 
 <h2 id="Panel box and Air">Panel box and Air<h2>
-<img src="補上配電盤照片路徑" width="360" height="200"/>
-<img src="補上配電盤照片路徑" width="360" height="200"/>
-<img src="補上電磁閥&三點組合照片路徑" width="360" height="200"/>
+<img src="AP-608 switchboard.jpg" width="295" height="222"/>
+<img src="AP-608 switchboard 2.jpg" width="295" height="222"/>
+<img src="AP-608 solenoid valve1.jpg" width="222" height="295"/>
+<img src="AP-608 Solenoid valve 2.jpg" width="222" height="295"/>
 <img src="AP-608 solenoid valve.jpg" width="222" height="295"/>
 
   
