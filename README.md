@@ -35,6 +35,7 @@
 <img src="補上配電盤照片路徑" width="360" height="200"/>
 <img src="補上配電盤照片路徑" width="360" height="200"/>
 <img src="補上電磁閥&三點組合照片路徑" width="360" height="200"/>
+<img src="AP-608 solenoid valve.jpg" width="222" height="295"/>
 
   
 <h2 id="Machine Dimension">Machine Dimension<h2>
