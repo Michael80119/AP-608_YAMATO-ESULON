@@ -65,12 +65,11 @@ rotating finishing holder
 <p>
 <h4>1.6 How to change pattern(different jig type)<h4>
 From rotating to normal
-<img src="補上指出換樣式要更換的零件" width="360" height="200"/>
+<img src="AP-608 Regular jig parts.jpg" width="360" height="200"/>
 <video src="換樣式的方式的影片" controls></video>
 <p>
 From normal to rotating
-<img src="補上指出換樣式要更換的零件" width="360" height="200"/>
-<video src="換樣式的方式的影片" controls></video>
+<video src="AP-608 Regular jig change to rotary jig.mp4" controls></video>
 <p>
 
 <h3 id="End-rounding station">2.End-rounding station<h3>
@@ -93,9 +92,10 @@ From normal to rotating
 <img src="補上磨毛第七、第八站照片路徑" width="360" height="200"/>
 <p>
 <h4>2.6 How to change height of end-rounders<h4>
-<video src="補上調整磨毛高度的影片" controls></video>
+<video src="AP-608 Adjust grinder height.mp4" controls></video>
 <h4>2.7 How to change end-rounders<h4>
-<video src="補上更換磨毛盤的影片" controls></video>
+<video src="AP-608 Remove disc.mp4" controls></video>
+<video src="AP-608 Rounding disc install.mp4" controls></video>
 
 <h3 id="Output station">3.Output station<h3>
 <h4>3.1 photo<h4>
@@ -110,23 +110,8 @@ From normal to rotating
 <h4>3.4 Second Output station<h4>
 <img src="補上出料第二站&開關照片路徑" width="360" height="200"/>
 <h4>3.5 How to change pattern(same jig type)<h4>
-normal finishing holder
-<img src="補上一般夾具換樣式要更換的零件" width="360" height="200"/>
-<video src="補上一般夾具換樣式的方式的影片" controls></video>
 <p>
-rotating finishing holder
-<img src="補上旋轉夾具換樣式要更換的零件" width="360" height="200"/>
-<video src="補上旋轉夾具換樣式的方式的影片" controls></video>
-<p>
-<h4>3.6 How to change pattern(different jig type)<h4>
-From rotating to normal
-<img src="補上指出換樣式要更換的零件" width="360" height="200"/>
-<video src="換樣式的方式的影片" controls></video>
-<p>
-From normal to rotating
-<img src="補上指出換樣式要更換的零件" width="360" height="200"/>
-<video src="換樣式的方式的影片" controls></video>
-<p>
+
 
 <h3 id="HMI monitor">4.HMI monitor<h3>
 <h4>4.1 photo of main page<h4>
