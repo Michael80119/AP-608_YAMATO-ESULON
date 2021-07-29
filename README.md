@@ -58,7 +58,7 @@
 <img src="補上入料第二站&開關照片路徑" width="360" height="200"/>
 <h4>1.5 How to change pattern(same jig type)<h4>
 normal finishing holder
-<video src="AP-608 regular jig change pattern.mp4" controls></video>
+<video src="AP-608 regular jig change pattern" controls></video>
 <p>
 rotating finishing holder
 <video src="AP-608 Rotary jig change pattern.mp4" controls></video>
