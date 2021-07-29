@@ -69,8 +69,11 @@ From rotating to normal
 <video src="換樣式的方式的影片" controls></video>
 <p>
 From normal to rotating
-<video width="480" height="270" controls>
-<source src="AP-608 Regular jig change to rotary jig.mp4" type="video/mp4">
+<video  width="480" height="270" controls>
+  <source src="AP-608 Regular jig change to rotary jig.mp4" type="video/mp4">
+  <source src="AP-608 Regular jig change to rotary jig.mp4" type="video/webm">
+  <p>Your browser doesn't support HTML5 video. Here is
+     a <a href="AP-608 Regular jig change to rotary jig.mp4">link to the video</a> instead.</p>
 </video>
 <p>
 
