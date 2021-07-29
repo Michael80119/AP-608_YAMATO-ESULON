@@ -22,10 +22,10 @@
 </nav>  
 
 <h2 id="Machine pictures">Machine pictures<h2>
-<img src="補上機器正面照片路徑" width="360" height="200"/>
-<img src="補上機器右邊照片路徑" width="360" height="200"/>
-<img src="補上機器背面照片路徑" width="360" height="200"/>
-<img src="補上機器左邊照片路徑" width="360" height="200"/>
+<img src="AP-608 MC front.jpg" width="369" height="277"/>
+<img src="AP-608 MC right.jpg" width="277" height="369"/>
+<img src="AP-608 MC back.jpg" width="369" height="277"/>
+<img src="AP-608 MC left.jpg" width="277" height="369"/>
   
 <h2 id="Machine videos">Machine videos<h2>
 <video src="補上機器作動影片路徑" width="360" height="200" controls></video>
@@ -51,11 +51,11 @@
 <h4>1.2 video<h4>
 <video src="補上入料站操作影片路徑" controls></video>
 <p>
-<h4>1.3 First Feeding station<h4>
-<img src="補上入料第一站&開關照片路徑" width="200" height="360"/>
+<h4>1.3 Feeding station<h4>
+<img src="AP-608 Infeed station.jpg" width="222" height="295"/>
 
-<h4>1.4 Second Feeding station<h4>
-<img src="補上入料第二站&開關照片路徑" width="360" height="200"/>
+<h4>1.4 Holder switch button<h4>
+<img src="AP-608 holder switch 2" width="369" height="277"/>
 <h4>1.5 How to change pattern(same jig type)<h4>
 normal finishing holder
 <video src="AP-608 regular jig change pattern.mp4" controls></video>
@@ -66,7 +66,7 @@ rotating finishing holder
 <h4>1.6 How to change pattern(different jig type)<h4>
 From rotating to normal
 <img src="AP-608 Regular jig parts.jpg" width="360" height="200"/>
-<video src="換樣式的方式的影片" controls></video>
+<video src="AP-608 Rotary jig change to regular jig.mp4" controls></video>
 <p>
 From normal to rotating
 <video  width="480" height="270" controls>
