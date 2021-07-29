@@ -69,7 +69,9 @@ From rotating to normal
 <video src="換樣式的方式的影片" controls></video>
 <p>
 From normal to rotating
-<video src="AP-608 Regular jig change to rotary jig.mp4" controls></video>
+<video width="480" height="270" controls>
+<source src="AP-608 Regular jig change to rotary jig.mp4" type="video/mp4">
+</video>
 <p>
 
 <h3 id="End-rounding station">2.End-rounding station<h3>
