@@ -16,11 +16,11 @@
     <li><a href="#End-rounding station">End-rounding station</a></li>
     <li><a href="#Output station">Output station</a></li>
     <li><a href="#HMI monitor">HMI monitor</a></li>
-    <ol>  
+    </ol>  
         
-<ul>
-<nav>  
-  
+</ul>
+</nav>  
+
 <h2 id="Machine pictures">Machine pictures<h2>
 <img src="補上機器正面照片路徑" width="360" height="200"/>
 <img src="補上機器右邊照片路徑" width="360" height="200"/>
