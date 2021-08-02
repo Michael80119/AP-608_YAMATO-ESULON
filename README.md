@@ -55,7 +55,7 @@
 <img src="AP-608 Infeed station.jpg" width="222" height="295"/>
 
 <h4>1.4 Holder switch button<h4>
-<img src="AP-608 holder switch 2" width="369" height="277"/>
+<img src="AP-608 holder switch 2.jpg" width="369" height="277"/>
 <h4>1.5 How to change pattern(same jig type)<h4>
 normal finishing holder
 <video src="AP-608 regular jig change pattern.mp4" controls></video>
@@ -69,12 +69,7 @@ From rotating to normal
 <video src="AP-608 Rotary jig change to regular jig.mp4" controls></video>
 <p>
 From normal to rotating
-<video  width="480" height="270" controls>
-  <source src="AP-608 Regular jig change to rotary jig.mp4" type="video/mp4">
-  <source src="AP-608 Regular jig change to rotary jig.mp4" type="video/webm">
-  <p>Your browser doesn't support HTML5 video. Here is
-     a <a href="AP-608 Regular jig change to rotary jig.mp4">link to the video</a> instead.</p>
-</video>
+<video src="AP-608 Regular jig change to rotary jig.mp4" controls></video>
 <p>
 
 <h3 id="End-rounding station">2.End-rounding station<h3>
