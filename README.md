@@ -79,23 +79,12 @@ From normal to rotating
 
 <h3 id="End-rounding station">2.End-rounding station<h3>
 <h4>2.1 photo<h4>
-<img src="補上磨毛站的總照片路徑" width="360" height="200"/>
+<img src="AP-608 8 endrounging.jpg" width="369" height="277"/>
 <br>
 <h4>2.2 video<h4>
 <video src="補上磨毛站站作動影片路徑" controls></video>
 <p>
-<h4>2.3 First and second End-rounders<h4>
-<img src="補上磨毛第一、第二站照片路徑" width="360" height="200"/>
-<p>
-<h4>2.4 Third and fourth End-rounders<h4>
-<img src="補上磨毛第三、第四站照片路徑" width="360" height="200"/>
-<p>
-<h4>2.5 Fifth and Sixth End-rounders<h4>
-<img src="補上磨毛第五、第六站照片路徑" width="360" height="200"/>
-<p>
-<h4>2.5 Seventh and Eighth End-rounders<h4>
-<img src="補上磨毛第七、第八站照片路徑" width="360" height="200"/>
-<p>
+
 <h4>2.6 How to change height of end-rounders<h4>
 <video src="AP-608 Adjust grinder height.mp4" controls></video>
 <h4>2.7 How to change end-rounders<h4>
@@ -104,17 +93,10 @@ From normal to rotating
 
 <h3 id="Output station">3.Output station<h3>
 <h4>3.1 photo<h4>
-<img src="補上出料站的總照片路徑" width="360" height="200"/>
+<img src="AP-608 Output station.jpg" width="277" height="369"/>
 <br>
 <h4>3.2 video<h4>
 <video src="補上出料站操作影片路徑" controls></video>
-<p>
-<h4>3.3 First Output station<h4>
-<img src="補上出料第一站&開關照片路徑" width="360" height="200"/>
-
-<h4>3.4 Second Output station<h4>
-<img src="補上出料第二站&開關照片路徑" width="360" height="200"/>
-<h4>3.5 How to change pattern(same jig type)<h4>
 <p>
 
 
