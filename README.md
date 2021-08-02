@@ -104,29 +104,32 @@ From normal to rotating
 
 
 <h3 id="HMI monitor">4.HMI monitor<h3>
-<h4>4.1 photo of main page<h4>
-<img src="補上人機主頁面照片路徑" width="360" height="200"/>
+<h4>4.1 photo of auto page<h4>
+<img src="AP-608 Auto page.jpg" width="634" height="454"/>
 <br>
-<h4>4.2 photo of auto page<h4>
-<img src="補上人機自動頁面照片路徑" width="360" height="200"/>
+<h4>4.2 photo of parameter page<h4>
+<img src="AP-608 Para 1.jpg" width="636" height="463"/>
 <br>
-<h4>4.3 photo of parameter page<h4>
-<img src="補上人機參數頁面1照片路徑" width="360" height="200"/>
+<h4>current page in parameter page 1<h4>
+<img src="AP-608 Current.jpg" width="636" height="464"/>
 <br>
-<img src="補上人機參數頁面2照片路徑" width="360" height="200"/>
+<img src="AP-608 Para 2.jpg" width="636" height="465"/>
 <br>
-<img src="補上人機參數頁面3照片路徑" width="360" height="200"/>
+<img src="AP-608 Para 3.jpg" width="636" height="464"/>
 <br>
-<img src="補上人機參數頁面4照片路徑" width="360" height="200"/>
+<img src="AP-608 Para 4.jpg" width="636" height="461"/>
 <br>
-<img src="補上人機參數頁面5照片路徑" width="360" height="200"/>
+<h4>4.3 photo of manual page<h4>
+<img src="AP-608 Manu 1.jpg" width="635" height="463"/>
 <br>
-<img src="補上人機參數頁面6照片路徑" width="360" height="200"/>
+<h4>4.4 HMI operation video<h4>
+<video src="AP-608 HMI.mp4" width="451" height="473" controls></video>
 <br>
-<h4>4.4 photo of manual page<h4>
-<img src="補上人機手動頁1照片路徑" width="360" height="200"/>
+<h4>4.5 chain function in manual mode<h4>
+<video src="AP-608 chain function (manual mode).mp4" width="443" height="464" controls></video>
 <br>
-<img src="補上人機手動頁2照片路徑" width="360" height="200"/>
+<h4>4.6 push cylinder<h4>
+<video src="AP-608 push cylinder.mp4" width="444" height="466" controls></video>
 <br>
 <h2>
 
