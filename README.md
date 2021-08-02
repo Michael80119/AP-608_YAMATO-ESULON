@@ -90,12 +90,13 @@ From normal to rotating
 <video src="AP-608 Adjust grinder height.mp4" width="369" height="277" controls></video>
 <h4>2.4 How to change end-rounders<h4>
 <video src="AP-608 Remove disc.mp4" width="369" height="277" controls></video>
+<p>
 <video src="AP-608 Rounding disc install.mp4" width="369" height="277" controls></video>
 
 <h3 id="Output station">3.Output station<h3>
 <h4>3.1 photo<h4>
 <img src="AP-608 Output station.jpg" width="277" height="369"/>
-<img src="AP-608 chain return button.jpg" width="277" height="369"/>
+
 <br>
 <h4>3.2 video<h4>
 <video src="補上出料站操作影片路徑" width="369" height="277" controls></video>
