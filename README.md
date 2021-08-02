@@ -83,8 +83,10 @@ From normal to rotating
 <img src="AP-608 8 endrounging.jpg" width="369" height="277"/>
 <br>
 <h4>2.2 grinder height record<h4>
+<h4> BD5-12   (all grinders with 30HZ)<h4>
 <video src="AP-608 grinder height record 1.mp4" width="430" height="453" controls></video>
 <p>
+<hr>OC-352UC   (all grinders with 30HZ)<h4>
 <video src="AP-608 grinder height record 2.mp4" width="440" height="440" controls></video>
 <p>
 
@@ -101,7 +103,7 @@ From normal to rotating
 
 <br>
 <h4>3.2 video<h4>
-<video src="AP-608 Return video" width="365" height="365" controls></video>
+<video src="AP-608 Return video.mp4" width="365" height="365" controls></video>
 <p>
 
 
