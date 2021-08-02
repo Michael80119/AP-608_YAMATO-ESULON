@@ -66,6 +66,7 @@ rotating finishing holder
 <h4>1.6 How to change pattern(different jig type)<h4>
 From rotating to normal
 <img src="AP-608 Regular jig parts.jpg" width="360" height="200"/>
+<p>
 <video src="AP-608 Rotary jig change to regular jig.mp4" controls></video>
 <p>
 From normal to rotating
