@@ -28,8 +28,8 @@
 <img src="AP-608 MC left.jpg" width="277" height="369"/>
   
 <h2 id="Machine videos">Machine videos<h2>
-<video src="補上機器作動影片路徑" width="360" height="200" controls></video>
-<video src="補上機器作動影片路徑徑" controls></video>
+<video src="AP-608 pattern 1 ruuning.mp4" width="447" height="447" controls></video>
+<video src="AP-608 pattern 2 ruuning.mp4" width="447" height="447" controls></video>
 
 <h2 id="Panel box and Air">Panel box and Air<h2>
 <img src="AP-608 switchboard.jpg" width="295" height="222"/>
@@ -49,7 +49,7 @@
 <img src="AP-608 Insert station.jpg" width="221" height="295"/>
 <br>
 <h4>1.2 video<h4>
-<video src="補上入料站操作影片路徑" controls></video>
+<video src="AP-608 feeding.mp4" width="383" height="383" controls></video>
 <p>
 <h4>1.3 Feeding station<h4>
 <img src="AP-608 Infeed station.jpg" width="222" height="295"/>
@@ -82,8 +82,10 @@ From normal to rotating
 <h4>2.1 photo<h4>
 <img src="AP-608 8 endrounging.jpg" width="369" height="277"/>
 <br>
-<h4>2.2 video<h4>
-<video src="補上磨毛站站作動影片路徑" width="369" height="277" controls></video>
+<h4>2.2 grinder height record<h4>
+<video src="AP-608 grinder height record 1.mp4" width="430" height="453" controls></video>
+<p>
+<video src="AP-608 grinder height record 2.mp4" width="440" height="440" controls></video>
 <p>
 
 <h4>2.3 How to change height of end-rounders<h4>
@@ -99,7 +101,7 @@ From normal to rotating
 
 <br>
 <h4>3.2 video<h4>
-<video src="補上出料站操作影片路徑" width="369" height="277" controls></video>
+<video src="AP-608 Return video" width="365" height="365" controls></video>
 <p>
 
 
