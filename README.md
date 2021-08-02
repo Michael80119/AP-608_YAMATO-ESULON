@@ -58,9 +58,11 @@
 <img src="AP-608 holder switch 2.jpg" width="369" height="277"/>
 <h4>1.5 How to change pattern(same jig type)<h4>
 normal finishing holder
+<p>
 <video src="AP-608 regular jig change pattern.mp4" width="369" height="277" controls></video>
 <p>
 rotating finishing holder
+<p>
 <video src="AP-608 Rotary jig change pattern.mp4" width="369" height="277" controls></video>
 <p>
 <h4>1.6 How to change pattern(different jig type)<h4>
@@ -72,6 +74,7 @@ From rotating to normal
 <video src="AP-608 Rotary jig change to regular jig.mp4" width="369" height="277" controls></video>
 <p>
 From normal to rotating
+<p>
 <video src="AP-608 Regular jig change to rotary jig.mp4" width="369" height="277" controls></video>
 <p>
 
@@ -83,15 +86,16 @@ From normal to rotating
 <video src="補上磨毛站站作動影片路徑" width="369" height="277" controls></video>
 <p>
 
-<h4>2.6 How to change height of end-rounders<h4>
+<h4>2.3 How to change height of end-rounders<h4>
 <video src="AP-608 Adjust grinder height.mp4" width="369" height="277" controls></video>
-<h4>2.7 How to change end-rounders<h4>
+<h4>2.4 How to change end-rounders<h4>
 <video src="AP-608 Remove disc.mp4" width="369" height="277" controls></video>
 <video src="AP-608 Rounding disc install.mp4" width="369" height="277" controls></video>
 
 <h3 id="Output station">3.Output station<h3>
 <h4>3.1 photo<h4>
 <img src="AP-608 Output station.jpg" width="277" height="369"/>
+<img src="AP-608 chain return button.jpg" width="277" height="369"/>
 <br>
 <h4>3.2 video<h4>
 <video src="補上出料站操作影片路徑" width="369" height="277" controls></video>
