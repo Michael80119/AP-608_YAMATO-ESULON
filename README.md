@@ -108,15 +108,19 @@ From normal to rotating
 <img src="AP-608 Auto page.jpg" width="634" height="454"/>
 <br>
 <h4>4.2 photo of parameter page<h4>
+<h4>parameter page 1<h4>
 <img src="AP-608 Para 1.jpg" width="636" height="463"/>
 <br>
 <h4>current page in parameter page 1<h4>
 <img src="AP-608 Current.jpg" width="636" height="464"/>
 <br>
+<h4>parameter page 2<h4>
 <img src="AP-608 Para 2.jpg" width="636" height="465"/>
 <br>
+<h4>parameter page 3<h4>
 <img src="AP-608 Para 3.jpg" width="636" height="464"/>
 <br>
+<h4>parameter page 4<h4>
 <img src="AP-608 Para 4.jpg" width="636" height="461"/>
 <br>
 <h4>4.3 photo of manual page<h4>
